@@ -12,7 +12,7 @@ Web/System/Mobile Developer | Tech Enthusiast | Problem Solver
 ### Jill & Lea Wedding
 [![Jillnlea Online](https://github.com/roniejapz5/roniejapz5/blob/main/jillnlea.jpg)](https://jillnlea.online/)
 <a href="https://play.google.com/store/apps/details?id=com.bfpr7.firewatch7">
-  <img src="https://github.com/roniejapz5/roniejapz5/blob/main/MAIN%201.jpg" alt="Fire Watch 7" height="200">
+  <img src="https://github.com/roniejapz5/roniejapz5/blob/main/MAIN%201.jpg" alt="Fire Watch 7" height="500">
 </a>
 
 # 📊 GitHub Stats:
